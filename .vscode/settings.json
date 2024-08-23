@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "minilzo.h": "c",
+        "lzo_tool.h": "c"
+    }
+}
