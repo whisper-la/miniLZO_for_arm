@@ -11,7 +11,7 @@
 
 # 使用方法
 - 首先需要适配lzo_tool中的相关接口
-- 修改makefile中的编译器
+- 修改makefile中的编译器,即default目标下的内容
 - make并执行即可
 - 建议将其修改为外部API进行调用
 
