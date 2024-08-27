@@ -21,6 +21,6 @@ gcc:
 
 clean:
 	rm -f $(PROGRAM) $(PROGRAM).exe $(PROGRAM).map $(PROGRAM).tds
-	rm -f *.err *.o *.obj
+	rm -f *.err *.o *.obj new*
 
 .PHONY: default clean
